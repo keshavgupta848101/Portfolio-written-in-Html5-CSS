@@ -1,0 +1,141 @@
+body
+{
+    color: #40514E;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+h1{
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+   
+}
+p{
+   
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+h3, a{
+    color:  #046063;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin: 12px;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(228, 226, 226);
+    border-bottom: 3px solid grey;
+}
+#content2
+{
+    font-size: 70%;
+    color: rgb(228, 226, 226);
+}
+
+#first_container p {
+    line-height: 0.5;
+    color:  #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+#first_container
+{
+   background-color: #E4F9F5;
+   
+   position: relative;
+   padding-top: 100px; 
+}
+
+.middle_container
+{
+    margin: 100px 0;
+}
+.bottom_container
+{
+   background-color: #66BFBF;
+   padding: 50px 0px 20px;
+}
+.top_cloud{
+   position: absolute;
+   right: 300px;
+   top: 50px;
+   
+}
+.bottom_cloud
+{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+#Keshav-pic{
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+}
+.coding_img
+{
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+}
+.Projects_img
+{
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+}
+.skill-row
+{
+    width:  50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+  line-height: 2;
+}
+.coding_img{
+    width: 25%;
+    height: auto;
+    float: right;
+    margin-right: 30px;
+}
+#content
+{
+    padding: 30px;
+}
+hr{
+    border: dotted #595e5e 6px;
+    width: 5%;
+    border-bottom: none;
+  
+margin: 100px auto;
+}
+.skill-row, p, h3{
+
+}
+.project_img
+{
+width: 25%;
+float: left;
+margin-right: 30px;
+
+}
+button
+{
+    background-color :;
+    background-image: linear-gradient( hsl(182, 75%, 33%), rgb(14, 173, 212));
+    border-radius: 9%;
+    font-size: 20;
+    margin: 50px;
+    height: 55px;
+    width: 130px;
+    border-style: none;
+    color: white;
+    
+    font-family: 'Montserrat', sans-serif;
+}
+button:hover{
+    background-image: linear-gradient( hsl(182, 89%, 22%), rgb(0, 143, 119));
+}
